@@ -13,7 +13,6 @@
 <p>
   <a href="#-english">English</a> •
   <a href="#-русский">Русский</a> •
-  <a href="#-беларуская">Беларуская</a> •
   <a href="#-deutsch">Deutsch</a> •
   <a href="#-polski">Polski</a> •
   <a href="#-中文">中文</a>
@@ -21,7 +20,7 @@
 
 ---
 
-### 💳 Purchase / Купить / Купіць
+### 💳 Purchase / Купить
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Google_Play-Buy_Now-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
@@ -71,21 +70,6 @@ Purchase the app from **Google Play** or via **PayPal** using the links above. A
 Приобретите приложение в **Google Play** или через **PayPal** по ссылкам выше. После оплаты вы получите APK или доступ через магазин.
 
 ---
-
-## 🇧🇾 Беларуская
-
-### Магчымасці
-
-| Функцыя | Апісанне |
-|---|---|
-| 🔘 **Кнопкі** | ✕ ○ □ △ • L1/R1 • Options • Create • PS • Touchpad |
-| 🕹️ **Стыкі** | Візуалізацыя ў рэальным часе з каліброўкай мёртвай зоны (0-30%) |
-| 🎯 **Трыгеры** | Дакладнае адлюстраванне ціску L2/R2 |
-| 🔊 **Вібрацыя** | Тэст тактыльнага водгуку: кароткая, сярэдняя, доўгая + патэрн |
-
-### Як купіць
-
-Набудзьце праграму ў **Google Play** або праз **PayPal** па спасылках вышэй.
 
 ---
 

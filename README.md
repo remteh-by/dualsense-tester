@@ -131,8 +131,10 @@ Kup aplikację w **Google Play** lub przez **PayPal** korzystając z linków pow
 
 ### ⚖️ License
 
-This software is **proprietary**. © 2025 RemTeh.by. All rights reserved. See [LICENSE](LICENSE) for details.
+This software is **proprietary**. © 2025 ООО «РемТех Электроникс». All rights reserved. See [LICENSE](LICENSE) for details.
 
-<sub>Made by <a href="https://github.com/remteh-by">RemTeh.by</a> 🇧🇾</sub>
+<sub>Made by <a href="https://github.com/remteh-by">ООО «РемТех Электроникс»</a> 🇧🇾</sub>
+<br>
+<sub>УНП 193626868 · г. Минск, пр-т Рокоссовского 17/1, пом. 29</sub>
 
 </div>

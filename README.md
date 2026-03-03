@@ -7,8 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Controller-DualSense_PS5-0070D1?style=flat-square&logo=playstation&logoColor=white" alt="DualSense">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT">
-  <img src="https://img.shields.io/github/v/release/remteh-by/dualsense-tester?style=flat-square&color=0070D1" alt="Release">
+  <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" alt="Proprietary">
 </p>
 
 <p>
@@ -19,6 +18,17 @@
   <a href="#-polski">Polski</a> •
   <a href="#-中文">中文</a>
 </p>
+
+---
+
+### 💳 Purchase / Купить / Купіць
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Play-Buy_Now-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
+  <a href="https://www.paypal.com/paypalme/remtehby"><img src="https://img.shields.io/badge/PayPal-Buy_Now-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+</p>
+
+> ⚠️ **This is proprietary software.** Source code is provided for review purposes only. A valid purchased license is required to use this application.
 
 </div>
 
@@ -37,17 +47,9 @@
 | 📊 **Calibration** | Min/max tracking with one-tap reset |
 | ⏱ **Diagnostics** | Input latency, hold time, press counter, raw axis data |
 
-### Install
+### How to Get
 
-Download APK from [Releases](https://github.com/remteh-by/dualsense-tester/releases).
-
-### Build
-
-```bash
-./gradlew assembleDebug          # Debug APK
-./gradlew assembleRelease        # Signed release APK
-./gradlew bundleRelease          # AAB for Play Store
-```
+Purchase the app from **Google Play** or via **PayPal** using the links above. After purchase, you will receive the APK or access through the store.
 
 ---
 
@@ -64,9 +66,9 @@ Download APK from [Releases](https://github.com/remteh-by/dualsense-tester/relea
 | 📊 **Калибровка** | Отслеживание min/max, сброс одной кнопкой |
 | ⏱ **Диагностика** | Задержка ввода, время удержания, счётчик нажатий, raw-данные |
 
-### Установка
+### Как купить
 
-Скачайте APK из раздела [Releases](https://github.com/remteh-by/dualsense-tester/releases).
+Приобретите приложение в **Google Play** или через **PayPal** по ссылкам выше. После оплаты вы получите APK или доступ через магазин.
 
 ---
 
@@ -80,11 +82,10 @@ Download APK from [Releases](https://github.com/remteh-by/dualsense-tester/relea
 | 🕹️ **Стыкі** | Візуалізацыя ў рэальным часе з каліброўкай мёртвай зоны (0-30%) |
 | 🎯 **Трыгеры** | Дакладнае адлюстраванне ціску L2/R2 |
 | 🔊 **Вібрацыя** | Тэст тактыльнага водгуку: кароткая, сярэдняя, доўгая + патэрн |
-| 📊 **Каліброўка** | Адсочванне min/max, скід адной кнопкай |
 
-### Спампаваць
+### Як купіць
 
-Спампуйце APK з раздзела [Releases](https://github.com/remteh-by/dualsense-tester/releases).
+Набудзьце праграму ў **Google Play** або праз **PayPal** па спасылках вышэй.
 
 ---
 
@@ -98,11 +99,10 @@ Download APK from [Releases](https://github.com/remteh-by/dualsense-tester/relea
 | 🕹️ **Sticks** | Echtzeit-Visualisierung mit Totzonen-Kalibrierung (0-30%) |
 | 🎯 **Trigger** | Präzise L2/R2-Druckanzeige |
 | 🔊 **Vibration** | Gamepad-Haptik testen: kurz, mittel, lang + Muster |
-| 📊 **Kalibrierung** | Min/Max-Tracking mit Ein-Klick-Reset |
 
-### Herunterladen
+### Kaufen
 
-APK aus dem Bereich [Releases](https://github.com/remteh-by/dualsense-tester/releases) herunterladen.
+Kaufen Sie die App im **Google Play Store** oder über **PayPal** über die Links oben.
 
 ---
 
@@ -116,11 +116,10 @@ APK aus dem Bereich [Releases](https://github.com/remteh-by/dualsense-tester/rel
 | 🕹️ **Analogi** | Wizualizacja w czasie rzeczywistym z kalibracją martwej strefy (0-30%) |
 | 🎯 **Triggery** | Precyzyjne wyświetlanie nacisku L2/R2 |
 | 🔊 **Wibracje** | Test haptyki gamepada: krótka, średnia, długa + wzór |
-| 📊 **Kalibracja** | Śledzenie min/max, reset jednym kliknięciem |
 
-### Pobierz
+### Kup
 
-Pobierz APK z sekcji [Releases](https://github.com/remteh-by/dualsense-tester/releases).
+Kup aplikację w **Google Play** lub przez **PayPal** korzystając z linków powyżej.
 
 ---
 
@@ -134,14 +133,19 @@ Pobierz APK z sekcji [Releases](https://github.com/remteh-by/dualsense-tester/re
 | 🕹️ **摇杆** | 实时可视化，支持死区校准（0-30%） |
 | 🎯 **扳机** | 精确显示 L2/R2 压力 |
 | 🔊 **振动** | 测试手柄触觉反馈：短、中、长 + 自定义模式 |
-| 📊 **校准** | 最小/最大值追踪，一键重置 |
 
-### 下载
+### 购买
 
-从 [Releases](https://github.com/remteh-by/dualsense-tester/releases) 下载 APK。
+通过上方的 **Google Play** 或 **PayPal** 链接购买应用。
 
 ---
 
 <div align="center">
-<sub>Made by <a href="https://github.com/remteh-by">RemTeh.by</a> 🇧🇾 with ❤️</sub>
+
+### ⚖️ License
+
+This software is **proprietary**. © 2025 RemTeh.by. All rights reserved. See [LICENSE](LICENSE) for details.
+
+<sub>Made by <a href="https://github.com/remteh-by">RemTeh.by</a> 🇧🇾</sub>
+
 </div>

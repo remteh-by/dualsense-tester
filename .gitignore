@@ -19,3 +19,5 @@ app/build/
 # Local JVM crash dumps (may contain private process memory)
 *.hprof
 hs_err_pid*.log
+
+**/build/

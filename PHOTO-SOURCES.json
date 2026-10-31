@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "dualsense",
+    "model": "Sony PlayStation DualSense · White",
+    "author": "Alex Cochrane",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Playstation_DualSense_Controller.png",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Playstation_DualSense_Controller.png",
+    "original_sha256": "06cde07334c28e2154d7b33b80b1a67bcfd667b319aa6e42514101fbf55f962b",
+    "original_bytes": 3411742,
+    "asset_sha256": "d1eb821465a93995779aacc3f1eb8d9f473a59e48c403eb312eec4996454e704",
+    "asset_bytes": 127038,
+    "asset_dimensions": "1333x1180",
+    "changes": "AI-assisted background removal with imagegen, resized and converted to transparent WebP; original licensed photograph retained as provenance",
+    "derivative_license": "CC BY-SA 4.0",
+    "asset_path": "app/src/main/res/drawable-nodpi/controller_photo.webp",
+    "background": "transparent alpha"
+  }
+]

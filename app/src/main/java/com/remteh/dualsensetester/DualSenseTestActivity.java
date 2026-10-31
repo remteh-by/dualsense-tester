@@ -3,8 +3,8 @@ package com.remteh.dualsensetester;
 import android.graphics.Color;
 
 public class DualSenseTestActivity extends BaseTestActivity {
-    @Override protected int getAccentColor() { return Color.parseColor("#0070D1"); }
-    @Override protected String getControllerTitle() { return "🔵  DUALSENSE PS5"; }
+    @Override protected int getAccentColor() { return Color.parseColor("#68B9FF"); }
+    @Override protected String getControllerTitle() { return "DualSense Tester"; }
     @Override protected String[] getFaceButtonLabels() { return new String[]{"✕", "○", "□", "△"}; }
     @Override protected int[] getFaceButtonColors() {
         return new int[]{ 0xFF6E97D4, 0xFFE8564A, 0xFFD490C5, 0xFF56C7A2 };
